@@ -5,7 +5,7 @@
 # Sobre o projeto
 
 O   App IMC  é uma ferramenta simples e eficaz para ajudar você a monitorar e entender sua saúde de maneira fácil.
-Desenvolvido em Kotlin, este aplicativo oferece uma experiência intuitiva e rápida para calcular seu Índice de Massa Corporal (IMC) de maneira conveniente.
+Desenvolvido em Java script e React native, este aplicativo oferece uma experiência intuitiva e rápida para calcular seu Índice de Massa Corporal (IMC) de maneira conveniente.
 
 
 
